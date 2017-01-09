@@ -23,6 +23,7 @@ it('works fine', function (done) {
       ['title', String],
       ['price', Number],
       ['link', String],
+      ['image', String],
       ['createdAt', Number]
     ].forEach(function (pair) {
       const prop = pair[0]
