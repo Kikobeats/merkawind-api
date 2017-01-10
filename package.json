@@ -2,7 +2,7 @@
   "name": "merkawind-api",
   "description": "Programatic API access for merkawind.com",
   "homepage": "https://github.com/Kikobeats/merkawind-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "lib",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",

@@ -1,3 +1,10 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2017-01-10)
+
+* Add sold support ([6ee9e37](https://github.com/kikobeats/merkawind-api/commit/6ee9e37))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2017-01-09)
 
