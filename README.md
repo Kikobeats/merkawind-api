@@ -19,11 +19,12 @@ $ npm install merkawind-api --save
 ## Usage
 
 ```js
-var totalwind = require('merkawind-api')
+const createMerkawindClient = require('merkawind-api')
 
-var client = totalwind({
+const merkawind = createMerkawindClient({
   key: process.env.API_KEY, // API Key credentials
-  pages: 3 // Numbers or request per each method call
+  pages: 3, // Numbers or request per each method call
+  sold: false // Determinate if add or not sold items [default=false]
 })
 ```
 
