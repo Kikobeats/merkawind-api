@@ -1,3 +1,10 @@
+<a name="1.1.3"></a>
+## 1.1.3 (2017-01-11)
+
+* Premature exit under empty array ([29b9c82](https://github.com/kikobeats/merkawind-api/commit/29b9c82))
+
+
+
 <a name="1.1.2"></a>
 ## 1.1.2 (2017-01-11)
 
