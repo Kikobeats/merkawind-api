@@ -10,7 +10,7 @@ const log = env === 'development' ? console.log : function () {}
 it('works fine', function (done) {
   const merkawind = createClient({
     key: process.env.API_KEY,
-    pages: 1,
+    pages: 2,
     sold: true
   })
 
@@ -38,7 +38,7 @@ it('works fine', function (done) {
   })
 
   ads.on('end', function () {
-    count.should.be.equal(10)
+    count.should.be.equal(20)
     done()
   })
 
