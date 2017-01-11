@@ -1,3 +1,10 @@
+<a name="1.1.1"></a>
+## 1.1.1 (2017-01-11)
+
+* Improve price normalization ([773e8ef](https://github.com/kikobeats/merkawind-api/commit/773e8ef))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2017-01-10)
 
