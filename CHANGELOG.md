@@ -1,3 +1,10 @@
+<a name="1.1.2"></a>
+## 1.1.2 (2017-01-11)
+
+* Fix pagination ([4eef164](https://github.com/kikobeats/merkawind-api/commit/4eef164))
+
+
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2017-01-11)
 
