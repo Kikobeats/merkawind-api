@@ -1,3 +1,11 @@
+<a name="1.1.4"></a>
+## 1.1.4 (2017-01-17)
+
+* Fix handle last item ([13bcaf3](https://github.com/kikobeats/merkawind-api/commit/13bcaf3))
+* Refactor ([51baf7a](https://github.com/kikobeats/merkawind-api/commit/51baf7a))
+
+
+
 <a name="1.1.3"></a>
 ## 1.1.3 (2017-01-11)
 
