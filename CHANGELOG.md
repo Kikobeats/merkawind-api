@@ -1,3 +1,10 @@
+<a name="1.1.5"></a>
+## 1.1.5 (2017-01-23)
+
+* Handle pagination edge cases ([cbea081](https://github.com/kikobeats/merkawind-api/commit/cbea081))
+
+
+
 <a name="1.1.4"></a>
 ## 1.1.4 (2017-01-17)
 
