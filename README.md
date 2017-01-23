@@ -23,7 +23,7 @@ const createMerkawindClient = require('merkawind-api')
 
 const merkawind = createMerkawindClient({
   key: process.env.API_KEY, // API Key credentials
-  pages: 3, // Numbers or request per each method call
+  pages: 3, // Numbers or request per each method call [default=Infinity]
   sold: false // Determinate if add or not sold items [default=false]
 })
 ```
