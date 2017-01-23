@@ -1,3 +1,10 @@
+<a name="1.1.6"></a>
+## 1.1.6 (2017-01-23)
+
+* Use query page for edge cases ([031616e](https://github.com/kikobeats/merkawind-api/commit/031616e))
+
+
+
 <a name="1.1.5"></a>
 ## 1.1.5 (2017-01-23)
 
