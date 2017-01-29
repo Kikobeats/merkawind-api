@@ -33,8 +33,8 @@ it('works fine', function (done) {
       data[prop].should.be.a[type.name]()
     })
 
-    const {title, price, link} = data
-    log(`${++count}: ${title} ${price}€ ${link}`)
+    const {title, link} = data
+    log(`${++count}: ${title} ${link}`)
   })
 
   ads.on('end', function () {
