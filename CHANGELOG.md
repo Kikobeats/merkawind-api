@@ -1,3 +1,10 @@
+<a name="1.2.0"></a>
+# 1.2.0 (2017-01-29)
+
+* Normalize price ([f7bc59b](https://github.com/kikobeats/merkawind-api/commit/f7bc59b))
+
+
+
 <a name="1.1.6"></a>
 ## 1.1.6 (2017-01-23)
 
