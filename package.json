@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "from2": "~2.3.0",
-    "got": "~6.7.1"
+    "got": "~7.0.0"
   },
   "devDependencies": {
     "coveralls": "latest",
