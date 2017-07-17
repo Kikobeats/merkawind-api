@@ -1,5 +1,7 @@
 # merkawind-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/merkawind-api.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/merkawind-api.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/merkawind-api/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/merkawind-api)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/merkawind-api.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/merkawind-api)
